@@ -1,2 +1,3 @@
 # NJ-Crime-Data-
 Data set and methodology for story about crime in NJ
+My Project is about crime in New Jersey and this is important because it can be used to reveal patterns in crime and could lead to lowering crime rates. My data came from the FBI crime database as well as NJ.gov, using county police data the state had collected. I went through using Google Sheets to clean up the data and used multiple categories to organize it to give a clearer visual. The data cannot suggest the exact location of the crime, and some crimes did not fit into any of the major crime categories defined by the FBI. Also, the county-specific data was not the clearest and still leaves a lot up to interpretation. 
